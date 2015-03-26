@@ -1,5 +1,5 @@
 # [FED] Week 6 - Responsive Web Design Lecture
-
+jenny hi
 This is the code from the in-class lecture. Feel free to clone or fork this repository for your own reference.  
 
 **Useful links from this lecture**
